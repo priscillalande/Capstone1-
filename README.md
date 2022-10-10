@@ -1,2 +1,2 @@
-# Capstone1-
+# Capstone1-Finance-Calculator
 Capstone1
